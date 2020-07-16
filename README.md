@@ -4,6 +4,16 @@
 
 一個小魯蛇從 `國防大學資管系 -> 北市大資科系 -> 交大資科工所（丙組）` 的故事。
 
+## 目錄
+* [關於我](https://github.com/aesophor/AmA/blob/master/README.md#%E9%97%9C%E6%96%BC%E6%88%91)
+* [榜單](https://github.com/aesophor/AmA/blob/master/README.md#%E6%A6%9C%E5%96%AE)
+* [在校成績](https://github.com/aesophor/AmA/blob/master/README.md#%E5%9C%A8%E6%A0%A1%E6%88%90%E7%B8%BE)
+* [自傳、讀書計劃](https://github.com/aesophor/AmA/blob/master/README.md#%E8%87%AA%E5%82%B3%E8%AE%80%E6%9B%B8%E8%A8%88%E5%8A%83-pdf)
+* [推薦信](https://github.com/aesophor/AmA/blob/master/README.md#%E6%8E%A8%E8%96%A6%E4%BF%A1)
+* [面試：交大資工丙（筆試+口試）](https://github.com/aesophor/AmA/blob/master/README.md#%E9%9D%A2%E8%A9%A6%E4%BA%A4%E5%A4%A7%E8%B3%87%E5%B7%A5%E4%B8%99%E7%AD%86%E8%A9%A6%E5%8F%A3%E8%A9%A6)
+* [面試：臺科資工](https://github.com/aesophor/AmA/blob/master/README.md#%E9%9D%A2%E8%A9%A6%E8%87%BA%E7%A7%91%E8%B3%87%E5%B7%A5)
+* [結語](https://github.com/aesophor/AmA/blob/master/README.md#%E7%B5%90%E8%AA%9E)
+
 <br>
 
 ## 關於我
