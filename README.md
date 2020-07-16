@@ -18,11 +18,6 @@
 
 <br>
 
-## [Github](https://github.com/aesophor)
-![](https://i.imgur.com/fjQ5hko.png)
-
-<br>
-
 ## 背景
 在 **國防大學** 即將升大四的暑假，我和家人借了60萬和軍校辦理退學。隨後在同個暑假，降轉到 **臺北市立大學資科系三年級**。
 
@@ -77,4 +72,35 @@
 
 <br>
 
-## 面試
+## 面試：交大資工丙（筆試+口試）
+筆試的部分是「性向測驗」，我記得是一張大約A3大小的試卷（雙面），上面包含各種類型的題目，從程式語言、演算法、資料結構、web、security、design pattern、linux kernel 都有。
+
+筆試題目：https://hackmd.io/@splitline/BkALfYY5r （感謝 @splitline 大大等人的整理）
+
+口試時，一開始被問到我的 [X11 Tiling window manager](https://github.com/aesophor/wmderland) 所用到的資料結構和演算法。接下來被問了大概七個 C++11 的問題（因爲我在自傳上寫了自己的 skill set 包含 C++11），但當時有蠻多題是我不會的。
+
+<br>
+
+## 面試：臺科資工
+交大面試隔天，就是臺科資工的面試。這天的面試感覺蠻順利的，最後也如願正取。
+
+面試第一關被問到 linux kernel SLAB allocators，我就大概說了自己對這個 topic 粗淺的理解（剛好之前玩 CTF 有接觸到）
+
+面試第二關是 whiteboard coding interview，題目是寫一段 BFS (Breadth-First Search) 的 pseudo code 並和老師解說自己的程式碼。由於並沒有限制是 tree/graph，我就用 binary tree
+舉例並寫了這段程式碼：
+```
+std::queue<TreeNode*> q;
+q.push(root);
+
+while (!q.empty()) {
+  size_t size = q.size();
+  
+  for (size_t i = 0; i < size; i++) {
+    TreeNode* node = q.front();
+    q.pop();
+        
+    if (node->left)  q.push(node->left);
+    if (node->right) q.push(node->right);
+  }
+}
+```
