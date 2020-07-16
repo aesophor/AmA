@@ -4,6 +4,8 @@
 
 一個小魯蛇從 `國防大學資管系 -> 北市大資科系 -> 交大資科工所（丙組）` 的故事。
 
+<br>
+
 ## 目錄
 * [關於我](https://github.com/aesophor/AmA/blob/master/README.md#%E9%97%9C%E6%96%BC%E6%88%91)
 * [榜單](https://github.com/aesophor/AmA/blob/master/README.md#%E6%A6%9C%E5%96%AE)
