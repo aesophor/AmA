@@ -92,7 +92,19 @@
 ## 面試：交大資工丙（筆試+口試）
 筆試的部分是「性向測驗」，我記得是一張A3雙面的試卷，題目類型包山包海，如：程式語言、演算法、資料結構、web、security、design pattern、linux kernel。（題目：https://hackmd.io/@splitline/BkALfYY5r ，感謝 @splitline 大大等人的整理）
 
-口試的部分，一開始被問到我的 [X11 Tiling window manager](https://github.com/aesophor/wmderland) 所用到的資料結構和演算法。接下來被問了大概七個 C++11 的問題，但當時有蠻多題是我不會的（因爲我在自傳上寫了自己的 skill set 包含 C++11，加上我的C++算是自學的，當初寫的時候不知道天高地厚）。
+以下是我們這屆面試的幾道例題：
+> 1. 舉出一個你會實作的較複雜的演算法，並用 30 字簡介
+> 2. stack, queue 分別是啥(20字)？分別會用在什麼演算法？
+> 3. 開發 linux kernel 或 driver 時怎麼 debug？有辦法在不 recompile 的狀況下改變數然後重複執行測試嗎
+> 4. 請問 GMM 和 K-means 的差別在哪裡？大致說明一下原理
+> 5. 寫程式的開發環境？有用 Github 多人協作的經驗嗎？有考過程式檢定嗎？幾小時幾題？
+> 6. memory allocation 太慢怎麼 debug？可以用什麼工具如何解決？
+> 7. 一個 function int `freq_mode(int a, int b, int c, int d)`，回傳其眾數出現的次數。例如 `freq_mode(1, 3, 3, 4)` 要回傳 2，因為 3 出現 2 次。求最優雅的解法？
+> 8. 實作演算法：找出陣列 int A[n] 第二小的數， O(n) 解，並證明所有可能的解都不可能比 Ω(n) 好
+
+<br>
+
+口試的部分，一開始被問到我的 [X11 Tiling window manager](https://github.com/aesophor/wmderland) 用到的資料結構和演算法。接下來被問了大概七個 C++11 的問題，但當時有蠻多題是我不會的（因爲我在自傳上寫了自己的 skill set 包含 C++11，加上我的C++算是自學的，當初寫的時候不知道天高地厚）。
 
 一走出面試的那間研討室，想說大概沒機會了，所以回家刷 LeetCode 刷到半夜兩點...很希望隔天的臺科面試不要也爆炸了 QQ
 
