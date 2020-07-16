@@ -54,7 +54,7 @@
 
 <br>
 
-## 自傳、讀書計劃 ([pdf](https://drive.google.com/file/d/1SVwwxm0VccIGnkcgs0Kiq7An1TWEY_RA/view?usp=sharing))
+## 自傳、讀書計劃 ([PDF](https://drive.google.com/file/d/1SVwwxm0VccIGnkcgs0Kiq7An1TWEY_RA/view?usp=sharing))
 我參考了三位學長的自傳和讀書計劃：
 1. [Su Billy - 2017 交大研究所推甄甲、丙組 & 數據心得](https://medium.com/@g4691821/2017-%E4%BA%A4%E5%A4%A7%E7%A0%94%E7%A9%B6%E6%89%80%E6%8E%A8%E7%94%84%E7%94%B2-%E4%B8%99%E7%B5%84-%E6%95%B8%E6%93%9A%E5%BF%83%E5%BE%97-de49ad2d93c)
 2. [tigercosmos - 半路出家申請國內資工研究所](https://tigercosmos.xyz/post/2018/11/apply_nctu/)
@@ -67,6 +67,8 @@
 <img src="https://i.imgur.com/O8RB1xO.png" width="33%"> <img src="https://i.imgur.com/q2dK5D0.png" width="33%"> <img src="https://i.imgur.com/o7wAQUV.png" width="33%">
 
 根據許多學長姐的經驗，感覺推甄非常重視校名和成績，所以我用較大篇幅來介紹自己的程式作品。我想讓教授們知道，**雖然我的校名不如人，但我想在這份自傳中展現我四年來的決心、毅力與努力。除了在校成績是第一名外，我更花費了所有自己可支配的時間去經營自己的作品，並且曾有幸獲得 Synology 的認可，取得系統部門的實習機會（真的很感謝群暉的主管）**
+
+([完整 pdf 下載按我](https://drive.google.com/file/d/1SVwwxm0VccIGnkcgs0Kiq7An1TWEY_RA/view?usp=sharing))
 
 <br>
 
