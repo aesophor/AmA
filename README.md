@@ -92,7 +92,7 @@
 ## 面試：交大資工丙（筆試+口試）
 筆試的部分是「性向測驗」，我記得是一張A3雙面的試卷，題目類型包山包海，如：程式語言、演算法、資料結構、web、security、design pattern、linux kernel。
 
-以下是我們這屆面試的幾道例題（[完整題目按我](https://hackmd.io/@splitline/BkALfYY5r)，感謝 @splitline 大大等人整理）：
+以下是我們這屆面試的幾道例題（[完整題目清單](https://hackmd.io/@splitline/BkALfYY5r)，感謝 @splitline 大大等人整理）：
 > 1. 舉出一個你會實作的較複雜的演算法，並用 30 字簡介
 > 2. stack, queue 分別是啥(20字)？分別會用在什麼演算法？
 > 3. 開發 linux kernel 或 driver 時怎麼 debug？有辦法在不 recompile 的狀況下改變數然後重複執行測試嗎
