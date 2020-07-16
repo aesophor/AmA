@@ -40,18 +40,18 @@
 <br>
 
 ## 自傳、讀書計劃 ([pdf](https://drive.google.com/file/d/1SVwwxm0VccIGnkcgs0Kiq7An1TWEY_RA/view?usp=sharing))
-寫自傳前，我先參考了兩位學長的自傳和讀書計劃：
+我參考了三位學長的自傳和讀書計劃：
 1. [Su Billy - 2017 交大研究所推甄甲、丙組 & 數據心得](https://medium.com/@g4691821/2017-%E4%BA%A4%E5%A4%A7%E7%A0%94%E7%A9%B6%E6%89%80%E6%8E%A8%E7%94%84%E7%94%B2-%E4%B8%99%E7%B5%84-%E6%95%B8%E6%93%9A%E5%BF%83%E5%BE%97-de49ad2d93c)
 2. [tigercosmos - 半路出家申請國內資工研究所](https://tigercosmos.xyz/post/2018/11/apply_nctu/)
 3. [shaform - 談談資工升研究所備審資料的準備](https://island.shaform.com/zh/2012/11/16/application-for-graduate-school/)
 
 <br>
 
-格式大致上是參考 [Su Billy 學長的自傳](https://medium.com/@g4691821/2017-%E4%BA%A4%E5%A4%A7%E7%A0%94%E7%A9%B6%E6%89%80%E6%8E%A8%E7%94%84%E7%94%B2-%E4%B8%99%E7%B5%84-%E6%95%B8%E6%93%9A%E5%BF%83%E5%BE%97-de49ad2d93c)，以條列式的寫法，讓教授們可以快速了解我這個人所會的技能。但我的文字有點太多，其實可以再進行精簡，這樣閱讀起來會比較輕鬆。
+我的格式大致上是參考 [Su Billy 學長的自傳](https://medium.com/@g4691821/2017-%E4%BA%A4%E5%A4%A7%E7%A0%94%E7%A9%B6%E6%89%80%E6%8E%A8%E7%94%84%E7%94%B2-%E4%B8%99%E7%B5%84-%E6%95%B8%E6%93%9A%E5%BF%83%E5%BE%97-de49ad2d93c)，以條列式的寫法，讓教授們可以快速了解我這個人所會的技能。但我的文字有點太多，其實可以再進行精簡，這樣閱讀起來會比較輕鬆。
 
 <img src="https://i.imgur.com/O8RB1xO.png" width="33%"> <img src="https://i.imgur.com/q2dK5D0.png" width="33%"> <img src="https://i.imgur.com/o7wAQUV.png" width="33%">
 
-根據許多學長姐的經驗，感覺推甄非常重視校名和成績，所以我用較大篇幅來介紹自己的程式作品。我想讓教授們知道，**雖然我的校名不如人，但我想在這份自傳中展現我四年來的決心、毅力與努力。除了在校成績是第一名外，我更花費了所有自己可支配的時間去經營自己的作品，並且曾有幸獲得 Synology 的認可，取得系統部門的實習機會。**
+根據許多學長姐的經驗，感覺推甄非常重視校名和成績，所以我用較大篇幅來介紹自己的程式作品。我想讓教授們知道，**雖然我的校名不如人，但我想在這份自傳中展現我四年來的決心、毅力與努力。除了在校成績是第一名外，我更花費了所有自己可支配的時間去經營自己的作品，並且曾有幸獲得 Synology 的認可，取得系統部門的實習機會（真的很感謝群暉的主管）**
 
 <br>
 
@@ -73,11 +73,11 @@
 <br>
 
 ## 面試：交大資工丙（筆試+口試）
-筆試的部分是「性向測驗」，我記得是一張大約A3大小的試卷（雙面），上面包含各種類型的題目，從程式語言、演算法、資料結構、web、security、design pattern、linux kernel 都有。
+筆試的部分是「性向測驗」，我記得是一張A3雙面的試卷，題目類型包山包海，如：程式語言、演算法、資料結構、web、security、design pattern、linux kernel。（題目：https://hackmd.io/@splitline/BkALfYY5r ，感謝 @splitline 大大等人的整理）
 
-筆試題目：https://hackmd.io/@splitline/BkALfYY5r （感謝 @splitline 大大等人的整理）
+口試的部分，一開始被問到我的 [X11 Tiling window manager](https://github.com/aesophor/wmderland) 所用到的資料結構和演算法。接下來被問了大概七個 C++11 的問題，但當時有蠻多題是我不會的（因爲我在自傳上寫了自己的 skill set 包含 C++11，加上我的C++算是自學的，當初寫的時候不知道天高地厚）。
 
-口試時，一開始被問到我的 [X11 Tiling window manager](https://github.com/aesophor/wmderland) 所用到的資料結構和演算法。接下來被問了大概七個 C++11 的問題（因爲我在自傳上寫了自己的 skill set 包含 C++11），但當時有蠻多題是我不會的。
+一走出面試的那間研討室，想說大概沒機會了，所以回家刷 LeetCode 刷到半夜兩點...很希望隔天的臺科面試不要也爆炸了 QQ
 
 <br>
 
@@ -97,6 +97,7 @@ while (!q.empty()) {
   
   for (size_t i = 0; i < size; i++) {
     TreeNode* node = q.front();
+    // Do something with `node`
     q.pop();
         
     if (node->left)  q.push(node->left);
@@ -104,3 +105,8 @@ while (!q.empty()) {
   }
 }
 ```
+
+## 結語
+除了自身的努力外，我相信貴人也是很重要的成功條件。感謝一路上幫助我的家人、老師和朋友們，並且特別感謝 jserv 在百忙之中幫我看了自傳，甚至幫我寫了推薦信！
+
+希望這篇文章也能幫助到要推甄研究所的你，如果之後你也如願正取，也可以寫一篇心得文幫助之後的學弟妹～
